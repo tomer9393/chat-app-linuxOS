@@ -2,6 +2,8 @@
 
 A simple Chat messaging application in C for Linux OS.
 
+Made for Linux Kernel Development Course.
+
 # How to use
 
 1. clone the repo.
